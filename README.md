@@ -9,7 +9,7 @@ The 'variable names' are just that...
 The source code is provided with line numbers.
 
 >>> print(b)
-<code>
+
 :-----------------------------------------------------------------
 :Function: .... get_func ....
 :Line number... 66
@@ -47,6 +47,6 @@ The source code is provided with line numbers.
 
 :
 :-----------------------------------------------------------------
-</code>
+
 
 
